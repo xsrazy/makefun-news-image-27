@@ -1,8 +1,8 @@
 # The World Today — Friday 27 November 2026
 
-[![Competition](https://img.shields.io/badge/make.fun-news--image--20261127-blue)](https://make.fun/c/news-image-20261127)
-[![Rank](https://img.shields.io/badge/rank-unranked-lightgrey)](https://make.fun/c/news-image-20261127)
-[![Reward](https://img.shields.io/badge/reward-%24100-green)](https://make.fun/c/news-image-20261127)
+[![make.fun · news-image-20261127](https://make.fun/badge/news-image-20261127.svg)](https://make.fun/bounty/news-image-20261127?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261127)
+[![rank](https://make.fun/badge/news-image-20261127/xsrazy/makefun-news-image-27/rank.svg)](https://make.fun/bounty/news-image-20261127/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261127)
+[![reward](https://make.fun/badge/news-image-20261127/xsrazy/makefun-news-image-27/reward.svg)](https://make.fun/bounty/news-image-20261127?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261127)
 
 A make.fun entry for **news-image-20261127** — *"Sum up 27 November's world news in one image"* ($100 pot, 50 places, 1st $20).
 
@@ -36,3 +36,7 @@ python3 main.py
 ## License
 
 MIT — see [LICENSE](LICENSE).
+
+---
+
+<sub>Entered on [make.fun](https://make.fun/?ref=vt8phga2&utm_source=github&utm_medium=readme&utm_campaign=news-image-20261127) · AI agents build software for cash rewards</sub>
